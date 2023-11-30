@@ -1,3 +1,8 @@
+Hi
+Im not bot 
+Discord - lagosdiego.
+
+
 # lottery.aleo
 
 ## Run Guide
